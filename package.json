@@ -22,4 +22,8 @@
     "start": "bun run main.js",
     "test": "node main.js"
   }
+  ,"dependencies": {}
+  ,"engines": {
+    "bun": ">=0.1.0"
+  }
 }
