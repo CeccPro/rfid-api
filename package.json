@@ -1,0 +1,25 @@
+{
+  "name": "rfid-api",
+  "version": "1.0.0",
+  "description": "Un sistema de API modular para controlar una base de datos remota, en integración con el sistema de lectores RFID by CeccPro (Yo)",
+  "keywords": [
+    "rfid",
+    "api"
+  ],
+  "homepage": "https://github.com/ceccpro/rfid-api#readme",
+  "bugs": {
+    "url": "https://github.com/ceccpro/rfid-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceccpro/rfid-api.git"
+  },
+  "license": "MIT",
+  "author": "CeccPro",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "bun run main.js",
+    "test": "node main.js"
+  }
+}
